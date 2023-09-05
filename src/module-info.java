@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author this
+ *
+ */
+module collectionprojects {
+}
